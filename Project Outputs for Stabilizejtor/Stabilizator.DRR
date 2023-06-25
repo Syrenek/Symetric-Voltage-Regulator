@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Stabilizator.PcbDoc   20.12.2022  23:13:19
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Stabilizator.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      24mil (0.599mm)                                           Round             8         PTH        4.07inch (103.37mm)
+T2      28mil (0.701mm)                                           Round             3         PTH        0.54inch (13.71mm)
+T3      32mil (0.8mm)                                             Round             4         PTH        0.80inch (20.32mm)
+T4      34mil (0.851mm)                                           Round             18        PTH        7.66inch (194.59mm)
+T5      35mil (0.899mm)                                           Round             22        PTH        6.70inch (170.12mm)
+T6      41mil (1.049mm)                                           Round             2         PTH        0.38inch (9.78mm)
+T7      43mil (1.1mm)                                             Round             6         PTH        1.96inch (49.71mm)
+T8      47mil (1.199mm)                                           Round             6         PTH        2.48inch (62.91mm)
+T9      118mil (3mm)                                              Round             4         PTH        5.63inch (142.88mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              73
+
+Total Processing Time (hh:mm:ss) : 00:00:00

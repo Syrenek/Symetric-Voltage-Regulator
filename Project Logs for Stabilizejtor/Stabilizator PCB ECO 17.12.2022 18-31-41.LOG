@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=Q2-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=Q2-2
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q2-3
+Removed Pin From Net: NetName=NetC6_1 Pin=Q3-1
+Change Component Footprint: Designator=Q2 Old Footprint=ONSC-TO-92-3-29-11 New Footprint=ONSC-TO-92-3-29-11_AM_BL
+Change Component Footprint: Designator=Q3 Old Footprint=ONSC-TO-92-3-29-11 New Footprint=ONSC-TO-92-3-29-11_AM_BL
+Change Component Comment : Designator=Q2 Old Comment=BC639 New Comment=BC547CZL1G
+Change Component Comment : Designator=Q3 Old Comment=MPS751 New Comment=BC327-40ZL1G
+Change Managed Component Library Link : Designator=Q2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=16A03CD2-B37A-4B11-8633-F5AE506BB46A New ItemGUID=3323F01C-9A8B-419E-AC7B-EF6002989AED Old RevisionGUID=4EE056E4-C0F7-49C2-ACD0-A4273D6F10C6 New RevisionGUID=321F18D8-A8A7-4ECE-9B1D-88138D2AB1EC
+Change Managed Component Library Link : Designator=Q3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C3CD326A-E141-4F97-BE89-B68385569EBE New ItemGUID=05B03371-45E0-4D6F-A824-0E4630B1CB9A Old RevisionGUID=01ACCFF5-4515-4E10-9351-E70ACA92FA99 New RevisionGUID=105C7C64-95E9-4AE1-BB08-8303E49721C9
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "ONSC-TO-92-3-29-11"; UniqueID = "\CGQRAWLW" ("\CGQRAWLW")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/MAC97-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_BL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Ammo Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BC547CZL1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "ONSC-TO-92-3-29-11"; UniqueID = "\CFEMWTHY" ("\CFEMWTHY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC327-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/MAC97-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC Continuous (A)"; Value = "-0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_BL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Ammo Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BC327-40ZL1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "PNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-2
+Added Pin To Net: NetName=NetC1_2 Pin=Q2-3
+Added Pin To Net: NetName=NetC6_1 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R8-2
+Added Net: Name=NetQ3_1
+Added Member To Class: ClassName=Sheet1 Member=Component R10 3006P-1-103LF
+Added Room: Name=Sheet1

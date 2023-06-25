@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Stabilizejtor.PrjPcb]
+   Generated File[Stabilizator.TXT]
+   Generated File[Stabilizator.LDP]
+   Generated File[Stabilizator.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:13:19 On 20.12.2022
